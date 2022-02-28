@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent burying in Scots linen</title>
+            <title>Proclamations. 1688-08-15</title>
+            <author>Council of Trade (Scotland)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92466</idno>
+            <idno type="STC">Wing S1019I</idno>
+            <idno type="STC">ESTC R229965</idno>
+            <idno type="EEBO-CITATION">99895750</idno>
+            <idno type="PROQUEST">99895750</idno>
+            <idno type="VID">153302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent burying in Scots linen</title>
+                  <title>Proclamations. 1688-08-15</title>
+                  <author>Council of Trade (Scotland)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at Edinburgh, the fifteen day of August, one thousand six hundred eighty eight years, and of our reign the fourth year.</note>
+                  <note>Steele notation: Arms 235  Faith, Scots and.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Linen industry --  England --  Early works to 1800.</term>
+               <term>Linen industry --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153302:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>A PROCLAMATION Anent Burying in Scots Linen.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES</hi> by the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Macers of Our Privy Council, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting,</salute>
+            </opener>
+            <p>For<g ref="char:EOLhyphen"/>aſmuch, as by Our Act of Parliament of the date the 14 of <hi>June,</hi> 1686. For the encouragement of the Linen Manufactories in this Kingdom, and prevention of the Exportation of the Moneys there<g ref="char:EOLhyphen"/>of, by Importing of Linen; We did, with Advice and Conſent of Our Parliament, Statute and Ordain, that thereafter no Corps of any perſon whatſomever ſhould be Buried in any Shirt, Sheet, or any thing elſe, except in plain Linen, or Cloth of Hards, made and Spun within this Kingdom, without Lace, or Point; Diſcharging thereby the making uſe of Holland, or other Linen Cloth, made in other Kingdoms, all Silk, Hair, or Woollen, Gold, or Silver, or any other Stuff what<g ref="char:EOLhyphen"/>ſomever, than what is made of Flax or Hards, Spun and Wrought within the Kingdom, and that under the pain and penalty of 300 Pounds <hi>Scots toties quoties</hi> for a Nobleman, and 200 Pounds <hi>Scots</hi> for each other perſon: And for the better diſcovery of the Contraveeners, it is Ordained, that every Miniſter within the Kingdom ſhall keep a Book, containing an exact accompt of all perſons buried within their ſaid Pa<g ref="char:EOLhyphen"/>roches; As alſo, that ſou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e one or more of the Relations of the deceaſt perſon, or other credible perſon (Tennents in the Countrey, and Cottars being always excepted) ſhould within eight days after the Interrment bring a Certificat upon Oath in Writing, wit<g ref="char:EOLhyphen"/>neſſed by two famous perſons to the Miniſter, Declaring that the ſaid Perſon was woond or wrapt in manner therein preſcribed; Which Certificats are to be Recorded by the Miniſter <hi>gratis:</hi> And if no perſon ſhall bring ſuch a Certificat within the ſpace fore<g ref="char:EOLhyphen"/>ſaid, then the Goods of the deceaſt perſon to be lyable to the foreſaid Forfaulture, as in the ſaid Act is at more length expreſt. And We underſtanding that the ſame hath not received that due obedience which was required, and by Us deſigned to the end foreſaid, Do with Advice of Our Council of Trade, Revive and renew the ſaid Act, and Ordain the famine to be put to due and vigorous execution in all time coming; And for the better effectuating of the famine, We do hereby Require all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Miniſters within this Kingdom to ſend in all ſuch Certificats as they ſhall receive, in manner above-mentioned, to the Clerk of Our ſaid Council of Trade, betwixt and the firſt of <hi>November</hi> next to come, together with a Liſt of the names of all ſuch as are, or ſhall be Interred before that time, without Certificats brought to them in manner contained in the ſaid Act, with Certification. And that Our pleaſure herein may be known, Our Will is, and We Charge you ſtrictly, and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and all other places needful, and there in Our Royal Name and Authority, by open Proclamation, make Publication of Our Pleaſure in the premiſſes, that punctual obedience may be given thereto, and none pretend ignorance.</p>
+            <closer>
+               <dateline>Given at <hi>Edinburgh,</hi> 
+                  <date>the Fifteen day of <hi>Auguſt,</hi> One thouſand ſix hundred eighty eight years, and of Our Reign the Fourth Year.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Concilii Commer ci Ro: Maine Cls. Concilii Commercii.</signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty: Anno DOM.</hi> 1688.</p>
+            <pb facs="tcp:153302:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153302:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+         </div>
+      </back>
+   </text>
+</TEI>
